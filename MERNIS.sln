@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{4EBBA809-6968-4E5A-910E-CF4525496ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{FCB5A988-35BA-4684-B451-3EDD9F675FA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{CD4A8386-3B3D-4572-A844-E348C0C15B8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EBBA809-6968-4E5A-910E-CF4525496ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBBA809-6968-4E5A-910E-CF4525496ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBBA809-6968-4E5A-910E-CF4525496ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBBA809-6968-4E5A-910E-CF4525496ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB5A988-35BA-4684-B451-3EDD9F675FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB5A988-35BA-4684-B451-3EDD9F675FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB5A988-35BA-4684-B451-3EDD9F675FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB5A988-35BA-4684-B451-3EDD9F675FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD4A8386-3B3D-4572-A844-E348C0C15B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD4A8386-3B3D-4572-A844-E348C0C15B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD4A8386-3B3D-4572-A844-E348C0C15B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD4A8386-3B3D-4572-A844-E348C0C15B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D543CA82-3363-4683-9F9E-7415D3EE5079}
+	EndGlobalSection
+EndGlobal
